@@ -1,0 +1,5 @@
+*.cache
+
+gen/com/example/cursoandroidutnnivel1/BuildConfig.java
+*.properties
+*.cache
